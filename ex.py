@@ -4,3 +4,4 @@ print(num)aa
 aaa
 
 
+setattr
